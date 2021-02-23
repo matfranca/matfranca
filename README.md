@@ -4,4 +4,6 @@
 
 Game development lover and a web & mobile development apprentice.
 
+Game developer with C++ and C#. Backend programmer with NodeJS and PHP. Frontend with JS and React.
+
 Eager to learn new things.
